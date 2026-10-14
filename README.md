@@ -1,12 +1,5 @@
-# #aprendelatam · mi repo de aprendizaje
+# #aprendelatam → [mi-diplomado](https://github.com/yaeleureka-afk/mi-diplomado)
 
-> Plantilla del alumno. Pulsa **Use this template** (o haz fork) y este repo será tu cuaderno.
+La plantilla del alumno vive en **mi-diplomado**. Toca **Use this template** allí.
 
-## Empieza aquí
-1. Crea tu copia con **Use this template**.
-2. Escribe en `REFLEXION.md` qué quieres construir.
-3. Cada tarea es un commit; cada duda, un Issue en [`elearnlatam`](https://github.com/yaeleureka-afk/elearnlatam).
-
-Ver [`AGENTS.md`](AGENTS.md) para trabajar con agentes.
-
-#aprendelatam
+Aula: [#elearnlatam](https://github.com/yaeleureka-afk/elearnlatam) · Emprende: [#emprendelatam](https://github.com/yaeleureka-afk/emprendelatam)
